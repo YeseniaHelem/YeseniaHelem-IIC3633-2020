@@ -8,6 +8,10 @@ Algo que me llamó la atención fue el proceso de construcción del modelo Leanr
 Finalmente, un punto a rescatar y tomar en cuenta, fue que hicieron mención a Multi-class, el paper lo menciona en trabajos realizados hasta ese momento,  pero no lo abarcó en en paper, me hubiera gustado que explorara un poco vectores mas variados, multi-class (L. Shimidt-Thieme, 2005)[2]  ó  diferentes "canales" (Babak Loni et al. 2016)[3], en los que los usuarios interactúan con los elementos en lugar de trabajar con valores binarios (aunque en trabajos futuros), pero fue un trabajo del 2009, y para ello fue suficiente con el aporte que dieron. 
 
 
+
+
+Bibliografía
+
 [1] Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.
 [2] L. Schmidt-Thieme. Compound classification models for recommender systems. In IEEE In- ternational Conference on Data Mining (ICDM 2005), pages 378–385, 2005
 [3] Babak Loni, Roberto Pagano, Martha Larson, and Alan Hanjalic. Bayesian personalized ranking with multi- channel user feedback. In RecSys, pages 361–364, 2016
