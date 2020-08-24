@@ -1,5 +1,5 @@
 
-Collaborative Filtering for Implicit Feedback Datasets
+\textbf{Collaborative Filtering for Implicit Feedback Datasets}
 
 El trabajo describe la construcción de un modelo de sistema de recomendación utilizando feedback implícito, describieron los tipos de modelos (User Based CF), y los compara con el modelo planteado, además mencionó los problemas de cómputo, y detallaron cómo se hizo la reducción de complejidad. Me llamó la atención cómo presentaron los problemas y/o carencias de obtener las ‘acciones negativas’ por parte de los usuarios, ya que es difícil saber si a una persona no le gusta un ítem dado que podría no saber de su existencia, a diferencia de los feedbacks positivos, en general el autor detalla varias maneras de interpretar algo así como un raiting positivo. 
 
