@@ -10,3 +10,7 @@ En el caso de explicit feedback existen problemas con la medición de la similit
 El trabajo que presentan los autores sobre implicit feedback, pienso que no necesariamente es ‘otra manera’ de trabajar con las variables latentes, en reiteradas ocaciones hace mención de ‘a diferencia de…(explicit feedback)’. Quizá esperaría que la hipótesis haya sido complementaria a explicit feedback, me explico: alguna manera de integrar los datos producidos por el feedback implícito hacia el feedback explicito. 
 
 Los autores además proponen una noción de cómo integrar contenido dinámico relacionado al tiempo, y dado el contexto (implicit feedback) remarcaría bastante este aporte para este tipo de modelos, muy acertado ese criterio. Otro punto que rescatar es que el autor detalló muy bien los pasos que siguieron para reducir la complejidad del modelo, fue muy interesante el ajuste de los cálculos.
+
+
+Bibliografía
+[1] Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.
