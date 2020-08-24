@@ -12,6 +12,6 @@ Finalmente, un punto a rescatar y tomar en cuenta, fue que hicieron mención a M
 
 Bibliografía
 
-[1] Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.
+[1] Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2009). BPR: Bayesian personalized ranking from implicit feedback. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (pp. 452-461). AUAI Press.
 [2] L. Schmidt-Thieme. Compound classification models for recommender systems. In IEEE In- ternational Conference on Data Mining (ICDM 2005), pages 378–385, 2005
 [3] Babak Loni, Roberto Pagano, Martha Larson, and Alan Hanjalic. Bayesian personalized ranking with multi- channel user feedback. In RecSys, pages 361–364, 2016
