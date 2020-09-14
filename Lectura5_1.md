@@ -1,4 +1,4 @@
-** Context-Aware Recommender Systems**
+**Context-Aware Recommender Systems**
 
 
 El trabajo de [1] cómo es posible tomar en cuenta las diferentes acciones e información contextual para la incorporarlas en el proceso de un sistema recomendador. En el cual analiza varios  conceptos sobre contextos, y factores además de cómo estos factores van cambiando a través del tiempo. Normalmente, los sistemas recomendadores no incorporan en sus procesos una base en cuanto a  conocimiento del contexto, por lo que esto se traduce en una pérdida de información. En ese sentido, el autor menciona que la diferencia entre ambos tipos de proceso es ser o no independiente de la acción. El trabajo también explica y analiza las diferencias que existen entre un sistema recomendador que incorpora el contexto de forma implícita e explícita. Para poder definir cómo es posible incorporar el contexto en sistemas de recomendación, detallaron los paradigmas para el uso de información contextual; los cuales son i) prefiltrado contextual, ii) postfiltrado contextual y iii) modelado contextual. Para cada paradigma mostraron los rendimientos dependiendo del problema. 
