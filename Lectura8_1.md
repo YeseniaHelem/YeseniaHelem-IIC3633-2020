@@ -10,4 +10,5 @@ Finalmente, el artículo proporciona una un modelo de evaluación basada en la s
 
 
 
+
 [1]Pu, P., Chen, L. and Hu, R. (2011). A user-centric evaluation framework for recommender systems. RecSys'11 - Proceedings of the 5th ACM Conference on Recommender Systems. 157-164.
