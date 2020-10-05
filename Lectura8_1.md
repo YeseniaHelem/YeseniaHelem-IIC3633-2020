@@ -1,4 +1,4 @@
-A User-Centric **Evaluation Framework for Recommender Systems**
+**A User-Centric Evaluation Framework for Recommender Systems**
 
 El éxito de un sistema de recomendación desde el punto de vista de los usuarios. El trabajo de [1] propone un framework llamado ResQue, que se construye basándose en la experiencia del usuario. El trabajo esta enfocado al área de Interfaces humano computador, el cual valida la confiabilidad y experiencia de los usuarios. Además, identifican áreas para invertir más en el desarrollo. El modelo que proponen lo evalúan con TAM y SUMI; los cuales son métricas para este tipo de evaluaciones muy conocidas. El artículo se enfoca en tres aspectos; la calidad de la recomendación, la adecuada interacción, y adecuada interfaz del recomendante. 
 
