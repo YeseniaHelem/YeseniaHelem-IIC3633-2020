@@ -1,6 +1,6 @@
 ** **
 
-**Deep Learning based Recommender System**
+**Deep learning based recommender system: A survey and new perspectives**
 
 
 En la primera parte del artículo[1], más que todo se detalló de manera introductoria de la aplicación de aprendizaje profundo (DL) en recomendaciones. Ahora, en la parte 2, describen Redes neuronales recurrentes (RNN), exploran las recomendaciones secuenciales, y otro modelo interesante es Boltzmann Machine para recomendaciones. 
