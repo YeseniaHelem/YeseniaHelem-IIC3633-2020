@@ -1,6 +1,8 @@
 ** **
 
 **Deep Learning based Recommender System**
+
+
 En la primera parte del artículo[1], más que todo se detalló de manera introductoria de la aplicación de aprendizaje profundo (DL) en recomendaciones. Ahora, en la parte 2, describen Redes neuronales recurrentes (RNN), exploran las recomendaciones secuenciales, y otro modelo interesante es Boltzmann Machine para recomendaciones. 
 
 Es interesante cómo detallan todos los algoritmos, dando una pequeña intuición de qué trata, y a grandes rasgos cómo se aplica en una recomendación. Sin embargo, por ejemplo en un modelo, los autores lo detallan de una manera bastante superficial, ya que menciona únicamente cómo el algoritmo aprende mediante el algoritmo de divergencia. Para ese ejemplo, esta Boltzmann Machine, ya que no mencionan algo importante que es la inferencia, y cómo ésta se aplica para construir una recomendación.
